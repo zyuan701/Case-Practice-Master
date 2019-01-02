@@ -7,7 +7,7 @@ all_walks = []
 # Simulate random walk 500 times
 for i in range(500) :
 
-    # Code from before
+    # roll the dice 100 times
     random_walk = [0]
     for x in range(100) :
         step = random_walk[-1]
